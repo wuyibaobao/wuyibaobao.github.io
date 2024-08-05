@@ -22,13 +22,13 @@ repository               : "wuyibaobao/wuyibaobao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wu Yijun"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Beijing University of Technology"
+  location         : "China Beijing"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "805647561@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
